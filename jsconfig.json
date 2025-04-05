@@ -1,28 +1,28 @@
 {
-    "compilerOptions": {
-        "allowUnreachableCode": false,
-        "allowUnusedLabels": false,
-        "exactOptionalPropertyTypes": true,
-        "noFallthroughCasesInSwitch": true,
-        "noImplicitOverride": true,
-        "noImplicitReturns": true,
-        "noPropertyAccessFromIndexSignature": true,
-        "noUncheckedIndexedAccess": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "strict": true,
+  "compilerOptions": {
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "exactOptionalPropertyTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strict": true,
 
-        "module": "ESNext",
-        "moduleResolution": "Classic",
+    "module": "ESNext",
+    "moduleResolution": "Classic",
 
-        "newLine": "LF",
-        "noEmit": true,
+    "newLine": "LF",
+    "noEmit": true,
 
-        "checkJs": true,
+    "checkJs": true,
 
-        "esModuleInterop": true,
-        "verbatimModuleSyntax": true,
+    "esModuleInterop": true,
+    "verbatimModuleSyntax": true,
 
-        "target": "ESNext"
-    }
+    "target": "ESNext"
+  }
 }
